@@ -13,13 +13,11 @@ public:
             ans.push_back(count);
             i=i+count;
         }
-        sort(ans.begin(), ans.end());
-        for(int i=0; i<ans.size()-1;i++){
+        sort(ans.begin(),ans.end());
+        for(int i=0;i<ans.size()-1;i++){
             if(ans[i]==ans[i+1])
             return false;
         }
-        return true;
-    
-        
+        return true;    
     }
 };
