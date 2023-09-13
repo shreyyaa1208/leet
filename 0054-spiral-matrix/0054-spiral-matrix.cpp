@@ -11,8 +11,7 @@ public:
         int startingCol=0;
         int endingRow=row-1;
         int endingCol=col-1;
-
-        while(count<total){
+ while(count<total){
             //print startin row
             for(int index=startingCol; count<total && index<=endingCol;index++){
                 ans.push_back(matrix[startingRow][index]);
@@ -34,8 +33,7 @@ public:
             //print starting col
             for(int index=endingRow;count<total && index>=startingRow;index--){
                 ans.push_back(matrix[index][startingCol]);
-                count++;
-               
+                count++;  
             }
             startingCol++;
         }
