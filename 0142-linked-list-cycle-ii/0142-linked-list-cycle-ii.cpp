@@ -16,18 +16,36 @@
  store the value of temp=1
  do temp=temp->next 
 
+ OPTIMIZED APPROACH-
+ take two pointers fast and slow
+ start them from head
+ traverse till fast and fast.next !=null
+ if fast==slow
+ return slow=head
+ now to find the first node in the loop
+ traverse slow.next and fast.next
+ return slow
+ return null
+
  */
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        unordered_map<ListNode*,int>mpp;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            if(mpp.count(temp)!=0)
-            return temp;
-            mpp[temp]=1;
-            temp=temp->next;
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+            if(slow==fast){
+                 slow=head;
+                 while(slow!=fast){
+                    slow=slow->next;
+                    fast=fast->next;
+                 }
+                 return slow;
+            }
+        
         }
-        return nullptr;
+        return NULL;
     }
 };
