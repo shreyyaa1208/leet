@@ -35,7 +35,8 @@ while(temp!=NULL){
 count++;
 temp=temp->next;
 }
-if(count==n){
+if(count==n)//when the node to be deleted is the first node
+{
     ListNode* newHead=head->next;
     delete(head);
     return newHead;
