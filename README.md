@@ -38,3 +38,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shreyyaa1208/leet/tree/master/0148-sort-list) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/shreyyaa1208/leet/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/shreyyaa1208/leet/tree/master/0061-rotate-list) |
+<!---LeetCode Topics End-->
