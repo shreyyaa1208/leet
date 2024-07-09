@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/shreyyaa1208/leet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shreyyaa1208/leet/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shreyyaa1208/leet/tree/master/0189-rotate-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shreyyaa1208/leet/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/shreyyaa1208/leet/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyyaa1208/leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shreyyaa1208/leet/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyyaa1208/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shreyyaa1208/leet/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
