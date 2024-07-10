@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyyaa1208/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/shreyyaa1208/leet/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/shreyyaa1208/leet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shreyyaa1208/leet/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shreyyaa1208/leet/tree/master/0189-rotate-array) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/shreyyaa1208/leet/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyyaa1208/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/shreyyaa1208/leet/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shreyyaa1208/leet/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyyaa1208/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shreyyaa1208/leet/tree/master/0136-single-number) |
