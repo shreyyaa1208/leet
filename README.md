@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/shreyyaa1208/leet/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/shreyyaa1208/leet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shreyyaa1208/leet/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/shreyyaa1208/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shreyyaa1208/leet/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyyaa1208/leet/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Array
@@ -134,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/shreyyaa1208/leet/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shreyyaa1208/leet/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/shreyyaa1208/leet/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
