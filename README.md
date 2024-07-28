@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/shreyyaa1208/leet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyyaa1208/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shreyyaa1208/leet/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/shreyyaa1208/leet/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyyaa1208/leet/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyyaa1208/leet/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/shreyyaa1208/leet/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
