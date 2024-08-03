@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shreyyaa1208/leet/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/shreyyaa1208/leet/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyyaa1208/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shreyyaa1208/leet/tree/master/0031-next-permutation) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shreyyaa1208/leet/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/shreyyaa1208/leet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyyaa1208/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shreyyaa1208/leet/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/shreyyaa1208/leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shreyyaa1208/leet/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyyaa1208/leet/tree/master/0151-reverse-words-in-a-string) |
