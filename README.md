@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/shreyyaa1208/leet/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyyaa1208/leet/tree/master/0451-sort-characters-by-frequency) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/shreyyaa1208/leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/shreyyaa1208/leet/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyyaa1208/leet/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/shreyyaa1208/leet/tree/master/0812-rotate-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/shreyyaa1208/leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Trie
 |  |
 | ------- |
@@ -169,4 +171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shreyyaa1208/leet/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/shreyyaa1208/leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
