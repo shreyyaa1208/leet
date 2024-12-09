@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/shreyyaa1208/leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shreyyaa1208/leet/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/shreyyaa1208/leet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shreyyaa1208/leet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
 ## Hash Table
@@ -228,4 +229,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyyaa1208/leet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyyaa1208/leet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shreyyaa1208/leet/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shreyyaa1208/leet/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
