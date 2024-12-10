@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/shreyyaa1208/leet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shreyyaa1208/leet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/shreyyaa1208/leet/tree/master/0795-k-th-symbol-in-grammar) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/shreyyaa1208/leet/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/shreyyaa1208/leet/tree/master/0795-k-th-symbol-in-grammar) |
 ## Sorting
 |  |
 | ------- |
@@ -233,4 +235,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreyyaa1208/leet/tree/master/0050-powx-n) |
+| [0795-k-th-symbol-in-grammar](https://github.com/shreyyaa1208/leet/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
