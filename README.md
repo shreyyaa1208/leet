@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/shreyyaa1208/leet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyyaa1208/leet/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/shreyyaa1208/leet/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/shreyyaa1208/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyyaa1208/leet/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/shreyyaa1208/leet/tree/master/0485-max-consecutive-ones) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/shreyyaa1208/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shreyyaa1208/leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shreyyaa1208/leet/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/shreyyaa1208/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyyaa1208/leet/tree/master/0451-sort-characters-by-frequency) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shreyyaa1208/leet/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/shreyyaa1208/leet/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shreyyaa1208/leet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shreyyaa1208/leet/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shreyyaa1208/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyyaa1208/leet/tree/master/0451-sort-characters-by-frequency) |
 | [1129-longest-string-chain](https://github.com/shreyyaa1208/leet/tree/master/1129-longest-string-chain) |
