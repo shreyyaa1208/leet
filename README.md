@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/shreyyaa1208/leet/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyyaa1208/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shreyyaa1208/leet/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/shreyyaa1208/leet/tree/master/0287-find-the-duplicate-number) |
 | [1129-longest-string-chain](https://github.com/shreyyaa1208/leet/tree/master/1129-longest-string-chain) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyyaa1208/leet/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Array
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/shreyyaa1208/leet/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/shreyyaa1208/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shreyyaa1208/leet/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyyaa1208/leet/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/shreyyaa1208/leet/tree/master/0485-max-consecutive-ones) |
 | [1129-longest-string-chain](https://github.com/shreyyaa1208/leet/tree/master/1129-longest-string-chain) |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyyaa1208/leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyyaa1208/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shreyyaa1208/leet/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyyaa1208/leet/tree/master/0300-longest-increasing-subsequence) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyyaa1208/leet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/shreyyaa1208/leet/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shreyyaa1208/leet/tree/master/0287-find-the-duplicate-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shreyyaa1208/leet/tree/master/0795-k-th-symbol-in-grammar) |
 ## Sorting
 |  |
