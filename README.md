@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/shreyyaa1208/leet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shreyyaa1208/leet/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/shreyyaa1208/leet/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/shreyyaa1208/leet/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shreyyaa1208/leet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shreyyaa1208/leet/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shreyyaa1208/leet/tree/master/0118-pascals-triangle) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/shreyyaa1208/leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shreyyaa1208/leet/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shreyyaa1208/leet/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/shreyyaa1208/leet/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shreyyaa1208/leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shreyyaa1208/leet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
