@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyyaa1208/leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyyaa1208/leet/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shreyyaa1208/leet/tree/master/2685-first-completely-painted-row-or-column) |
+| [3429-special-array-i](https://github.com/shreyyaa1208/leet/tree/master/3429-special-array-i) |
 ## Math
 |  |
 | ------- |
