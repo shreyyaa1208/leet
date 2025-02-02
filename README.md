@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shreyyaa1208/leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/shreyyaa1208/leet/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shreyyaa1208/leet/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/shreyyaa1208/leet/tree/master/0234-palindrome-linked-list) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyyaa1208/leet/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/shreyyaa1208/leet/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shreyyaa1208/leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyyaa1208/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreyyaa1208/leet/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shreyyaa1208/leet/tree/master/0031-next-permutation) |
