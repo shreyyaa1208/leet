@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shreyyaa1208/leet/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1129-longest-string-chain](https://github.com/shreyyaa1208/leet/tree/master/1129-longest-string-chain) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shreyyaa1208/leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shreyyaa1208/leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shreyyaa1208/leet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shreyyaa1208/leet/tree/master/2685-first-completely-painted-row-or-column) |
 ## Binary Search
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/shreyyaa1208/leet/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyyaa1208/leet/tree/master/0451-sort-characters-by-frequency) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shreyyaa1208/leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/shreyyaa1208/leet/tree/master/0812-rotate-string) |
 | [1129-longest-string-chain](https://github.com/shreyyaa1208/leet/tree/master/1129-longest-string-chain) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shreyyaa1208/leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shreyyaa1208/leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Trie
 |  |
 | ------- |
