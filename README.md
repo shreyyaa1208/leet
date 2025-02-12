@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyyaa1208/leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/shreyyaa1208/leet/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyyaa1208/leet/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shreyyaa1208/leet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shreyyaa1208/leet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shreyyaa1208/leet/tree/master/2685-first-completely-painted-row-or-column) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shreyyaa1208/leet/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/shreyyaa1208/leet/tree/master/1129-longest-string-chain) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shreyyaa1208/leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shreyyaa1208/leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shreyyaa1208/leet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shreyyaa1208/leet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shreyyaa1208/leet/tree/master/2685-first-completely-painted-row-or-column) |
 ## Binary Search
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyyaa1208/leet/tree/master/0451-sort-characters-by-frequency) |
 | [1129-longest-string-chain](https://github.com/shreyyaa1208/leet/tree/master/1129-longest-string-chain) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shreyyaa1208/leet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shreyyaa1208/leet/tree/master/0451-sort-characters-by-frequency) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shreyyaa1208/leet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
 | ------- |
