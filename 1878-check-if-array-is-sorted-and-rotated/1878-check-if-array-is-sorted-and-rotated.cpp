@@ -9,7 +9,8 @@ public:
             }
         }
         if(nums[n-1]>nums[0])
-        count++;
+            count++;
+        
         return count<=1;
     }
 };
