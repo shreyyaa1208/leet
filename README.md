@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/shreyyaa1208/leet/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/shreyyaa1208/leet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shreyyaa1208/leet/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/shreyyaa1208/leet/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shreyyaa1208/leet/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyyaa1208/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shreyyaa1208/leet/tree/master/0189-rotate-array) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/shreyyaa1208/leet/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shreyyaa1208/leet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shreyyaa1208/leet/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/shreyyaa1208/leet/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shreyyaa1208/leet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyyaa1208/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyyaa1208/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shreyyaa1208/leet/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/shreyyaa1208/leet/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shreyyaa1208/leet/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/shreyyaa1208/leet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreyyaa1208/leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreyyaa1208/leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyyaa1208/leet/tree/master/0242-valid-anagram) |
