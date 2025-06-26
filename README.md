@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyyaa1208/leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyyaa1208/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreyyaa1208/leet/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/shreyyaa1208/leet/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/shreyyaa1208/leet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shreyyaa1208/leet/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shreyyaa1208/leet/tree/master/0056-merge-intervals) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyyaa1208/leet/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/shreyyaa1208/leet/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shreyyaa1208/leet/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shreyyaa1208/leet/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/shreyyaa1208/leet/tree/master/0064-minimum-path-sum) |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shreyyaa1208/leet/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyyaa1208/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0890-lemonade-change](https://github.com/shreyyaa1208/leet/tree/master/0890-lemonade-change) |
 ## Backtracking
