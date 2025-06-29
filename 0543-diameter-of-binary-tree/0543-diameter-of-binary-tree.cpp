@@ -16,15 +16,12 @@ public:
         height(root,diameter);
         return diameter;
     }
-
     int height(TreeNode* node, int& diameter){
         if(node==nullptr)
         return 0;
-   // calculates the height of the left subtree and stores it in the variable l, 
-   //while also potentially updating the diameter value if needed.
-    int l=height(node->left,diameter);
-    int r=height(node->right,diameter);
-    diameter=max(diameter,l+r);
-    return 1 + max(l,r);
+        int l=height(node->left,diameter);
+        int r=height(node->right,diameter);
+        diameter=max(diameter,l+r);
+        return 1+max(l,r);
     }
 };
