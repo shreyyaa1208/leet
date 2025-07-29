@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyyaa1208/leet/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/shreyyaa1208/leet/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/shreyyaa1208/leet/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shreyyaa1208/leet/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shreyyaa1208/leet/tree/master/0062-unique-paths) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/shreyyaa1208/leet/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/shreyyaa1208/leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shreyyaa1208/leet/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/shreyyaa1208/leet/tree/master/0044-wildcard-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyyaa1208/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shreyyaa1208/leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreyyaa1208/leet/tree/master/0242-valid-anagram) |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/shreyyaa1208/leet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shreyyaa1208/leet/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shreyyaa1208/leet/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/shreyyaa1208/leet/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/shreyyaa1208/leet/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/shreyyaa1208/leet/tree/master/0234-palindrome-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shreyyaa1208/leet/tree/master/0795-k-th-symbol-in-grammar) |
@@ -359,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/shreyyaa1208/leet/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/shreyyaa1208/leet/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyyaa1208/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0890-lemonade-change](https://github.com/shreyyaa1208/leet/tree/master/0890-lemonade-change) |
