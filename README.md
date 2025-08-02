@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/shreyyaa1208/leet/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shreyyaa1208/leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shreyyaa1208/leet/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/shreyyaa1208/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shreyyaa1208/leet/tree/master/0795-k-th-symbol-in-grammar) |
 ## Hash Table
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shreyyaa1208/leet/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/shreyyaa1208/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shreyyaa1208/leet/tree/master/0287-find-the-duplicate-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shreyyaa1208/leet/tree/master/0795-k-th-symbol-in-grammar) |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/shreyyaa1208/leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/shreyyaa1208/leet/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/shreyyaa1208/leet/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/shreyyaa1208/leet/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shreyyaa1208/leet/tree/master/0234-palindrome-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shreyyaa1208/leet/tree/master/0795-k-th-symbol-in-grammar) |
 ## Memoization
