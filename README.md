@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/shreyyaa1208/leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shreyyaa1208/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/shreyyaa1208/leet/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shreyyaa1208/leet/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shreyyaa1208/leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/shreyyaa1208/leet/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shreyyaa1208/leet/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shreyyaa1208/leet/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/shreyyaa1208/leet/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shreyyaa1208/leet/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shreyyaa1208/leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/shreyyaa1208/leet/tree/master/3799-unique-3-digit-even-numbers) |
