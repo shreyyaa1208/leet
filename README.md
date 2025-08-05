@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/shreyyaa1208/leet/tree/master/0890-lemonade-change) |
 | [1129-longest-string-chain](https://github.com/shreyyaa1208/leet/tree/master/1129-longest-string-chain) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyyaa1208/leet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1635-number-of-good-pairs](https://github.com/shreyyaa1208/leet/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyyaa1208/leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/shreyyaa1208/leet/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/shreyyaa1208/leet/tree/master/2107-find-unique-binary-string) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/shreyyaa1208/leet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shreyyaa1208/leet/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shreyyaa1208/leet/tree/master/0795-k-th-symbol-in-grammar) |
+| [1635-number-of-good-pairs](https://github.com/shreyyaa1208/leet/tree/master/1635-number-of-good-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shreyyaa1208/leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shreyyaa1208/leet/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1129-longest-string-chain](https://github.com/shreyyaa1208/leet/tree/master/1129-longest-string-chain) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shreyyaa1208/leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1635-number-of-good-pairs](https://github.com/shreyyaa1208/leet/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shreyyaa1208/leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/shreyyaa1208/leet/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shreyyaa1208/leet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/shreyyaa1208/leet/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyyaa1208/leet/tree/master/0451-sort-characters-by-frequency) |
+| [1635-number-of-good-pairs](https://github.com/shreyyaa1208/leet/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shreyyaa1208/leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Dynamic Programming
 |  |
