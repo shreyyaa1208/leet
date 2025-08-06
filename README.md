@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/shreyyaa1208/leet/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyyaa1208/leet/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/shreyyaa1208/leet/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/shreyyaa1208/leet/tree/master/0493-reverse-pairs) |
 | [0890-lemonade-change](https://github.com/shreyyaa1208/leet/tree/master/0890-lemonade-change) |
 | [1129-longest-string-chain](https://github.com/shreyyaa1208/leet/tree/master/1129-longest-string-chain) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyyaa1208/leet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/shreyyaa1208/leet/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shreyyaa1208/leet/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyyaa1208/leet/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/shreyyaa1208/leet/tree/master/0493-reverse-pairs) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyyaa1208/leet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyyaa1208/leet/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shreyyaa1208/leet/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/shreyyaa1208/leet/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -397,4 +400,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/shreyyaa1208/leet/tree/master/3799-unique-3-digit-even-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyyaa1208/leet/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyyaa1208/leet/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyyaa1208/leet/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyyaa1208/leet/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
