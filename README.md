@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyyaa1208/leet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/shreyyaa1208/leet/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyyaa1208/leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/shreyyaa1208/leet/tree/master/1901-find-a-peak-element-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/shreyyaa1208/leet/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/shreyyaa1208/leet/tree/master/2107-find-unique-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyyaa1208/leet/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/shreyyaa1208/leet/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/shreyyaa1208/leet/tree/master/0493-reverse-pairs) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyyaa1208/leet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1901-find-a-peak-element-ii](https://github.com/shreyyaa1208/leet/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/shreyyaa1208/leet/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/shreyyaa1208/leet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shreyyaa1208/leet/tree/master/0073-set-matrix-zeroes) |
+| [1901-find-a-peak-element-ii](https://github.com/shreyyaa1208/leet/tree/master/1901-find-a-peak-element-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shreyyaa1208/leet/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
 |  |
